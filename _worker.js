@@ -1,7 +1,7 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-const rootDomain = "cf-vip.acceptvpn-store.workers.dev"; // Ganti dengan domain utama kalian
+const rootDomain = "nautica.me"; // Ganti dengan domain utama kalian
 const serviceName = "AcceptVPN🇮🇩"; // Ganti dengan nama workers kalian
 const apiKey = "l4NLpdDF1ainxCJKbQbyfik1B6bns4QGU3uOCYsq"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "acceptvpn.store@gmail.com"; // Ganti dengan email yang kalian gunakan
